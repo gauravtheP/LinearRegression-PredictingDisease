@@ -6,6 +6,7 @@ There are two cities, “San Juan” and “Iquitos” with test data for each c
 2. https://s3.amazonaws.com/drivendata/data/44/public/dengue_labels_train.csv
 ### Steps we followed: 
 Task 1: Do all the sorts of pre-processing required along with proper analysis and make data ready for models.
+
 Task 2: You are allowed to use only linear regression, report the mean absolute error on the test data (you are free to use all sorts of feature conversion techniques, you can add/delete/modify features as you want) Performance metric Mean absolute error
 ### Type of problem:
 Regression Problem
